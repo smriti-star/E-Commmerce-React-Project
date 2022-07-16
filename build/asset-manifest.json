@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/E-Commmerce-React-Project/static/js/main.15353963.chunk.js",
+    "main.js.map": "/E-Commmerce-React-Project/static/js/main.15353963.chunk.js.map",
+    "runtime-main.js": "/E-Commmerce-React-Project/static/js/runtime-main.c1ee77c0.js",
+    "runtime-main.js.map": "/E-Commmerce-React-Project/static/js/runtime-main.c1ee77c0.js.map",
+    "static/js/2.fa5f8156.chunk.js": "/E-Commmerce-React-Project/static/js/2.fa5f8156.chunk.js",
+    "static/js/2.fa5f8156.chunk.js.map": "/E-Commmerce-React-Project/static/js/2.fa5f8156.chunk.js.map",
+    "index.html": "/E-Commmerce-React-Project/index.html",
+    "static/js/2.fa5f8156.chunk.js.LICENSE.txt": "/E-Commmerce-React-Project/static/js/2.fa5f8156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1ee77c0.js",
+    "static/js/2.fa5f8156.chunk.js",
+    "static/js/main.15353963.chunk.js"
+  ]
+}
